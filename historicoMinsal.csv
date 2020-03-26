@@ -1,4 +1,4 @@
-﻿FECHA,Región,Casos nuevos,Casos totales,Promedio de lat,lng
+﻿FECHA,Región,Casos nuevos,Casos totales,lat,lng
 2020-03-17 00:00:00,Antofagasta,2,2,"-23,6509279000","-70,3975022000"
 2020-03-17 00:00:00,Araucanía,4,4,"-38,9489210000","-72,3311130000"
 2020-03-17 00:00:00,Arica y Parinacota,0,0,"-18,5940485000","-69,4784541000"
